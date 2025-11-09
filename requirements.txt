@@ -1,0 +1,2 @@
+futu-api>=12.2.886
+requests>=2.31.0
